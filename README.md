@@ -40,6 +40,9 @@ GPS 위경도 CSV 파일을 준비.
 python gps_visualizer.py
 python gps_visualizer_colored_dated.py
 
+### 결과 HtML 파일
+파일에서 선택하여 chrome과 같은 웹으로 실행하면 됩니다. 
+
 본 코드의 sample 결과는 아래 링크의 "한나라호 선박의 운항경로 분석 데이터" (무료 공개, BigdataSea) 를 사용하였습니다. 
 원본 샘플 데이터는 [BigdataSea](https://www.bigdata-sea.kr/datasearch/base/view.do?prodId=PROD_000082)에서 다운로드 할 수 있습니다.
 
