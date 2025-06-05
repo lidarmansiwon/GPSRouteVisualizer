@@ -8,7 +8,7 @@ import matplotlib.colors as colors
 # 데이터 로드
 df = pd.read_csv('Hannara_ship_trajactory.csv')
 
-# 10개씩 샘플링
+# 1000개씩 샘플링
 df_sampled = df.iloc[::1000]
 
 # 중심점 설정
